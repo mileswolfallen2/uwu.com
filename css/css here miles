@@ -1,0 +1,6 @@
+body{
+    background:rgb(0, 34, 255);
+}
+a{
+   background-color: red; 
+}
